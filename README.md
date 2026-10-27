@@ -33,8 +33,11 @@ This project explores loan data to identify default trends across loan grades, p
 
 ## Project File
 
-Open `Loan & Risk Analysis dashboard.pbix
-` in Microsoft Power BI Desktop to explore the report.
+Open `### Project File
+
+[📊 Download Power BI Dashboard](./Loan%20%26%20Risk%20Analysis%20dashboard.pbix)
+
+Open the downloaded file in Microsoft Power BI Desktop.in Microsoft Power BI Desktop to explore the report.
 
 ## Purpose
 
