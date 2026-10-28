@@ -52,6 +52,16 @@ Download the file and open it using Microsoft Power BI Desktop to explore the in
 
 ## 💡 Key Insights
 
+* **Portfolio Overview:** The dashboard reports 357,906 loans with a total loan amount of $5.24 billion.
+* **Default Rate:** The displayed overall loan default rate is 17.4%.
+* **Loan Grade Risk:** Grade G has the highest displayed default rate at 43.4%, while Grade A has the lowest at 5.2%.
+* **Loan Purpose:** Small business loans show the highest default rate among the purposes visible in the chart, at 26.8%.
+* **Loan Term:** The dashboard shows a higher default rate for 60-month loans than for 36-month loans.
+* **Monthly Trends:** Default rates vary across months and between the displayed 2013 and 2014 series.
+* **Borrower Credit Scores:** Default rates vary across the FICO score ranges shown in the dashboard.
+
+*Note: These observations reflect the displayed dashboard and its current filter selections.*
+
 The dashboard can be used to explore:
 
 * How default rates vary across loan grades and purposes.
