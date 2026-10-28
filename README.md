@@ -16,6 +16,11 @@ This project demonstrates practical skills in business intelligence, data analys
 * Compare risk patterns across loan grades, purposes, and loan terms.
 * Present key metrics through an interactive dashboard.
 
+## 📸 Dashboard Preview
+
+![Loan & Risk Analysis Dashboard](./dashboard-overview.png.png)
+
+*Interactive Power BI dashboard for loan portfolio and risk analysis.*
 ## 📊 Key Performance Indicators (KPIs)
 
 * **Total Loans** — Total number of loans in the dataset.
