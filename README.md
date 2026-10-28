@@ -1,48 +1,73 @@
-# loan-risk-analysis
-Interactive Power BI dashboard analyzing loan defaults, portfolio risk, borrower credit scores, and lending trends using DAX and data modeling. 
-
 # Loan & Risk Analysis Dashboard
 
-An interactive Power BI dashboard for analyzing loan portfolio performance, default rates, and borrower risk patterns.
+An interactive **Power BI dashboard** designed to analyze loan portfolio performance, borrower risk profiles, and loan default trends using data visualization, DAX measures, and data modeling.
 
-## Project Overview
+## 📌 Project Overview
 
-This project explores loan data to identify default trends across loan grades, purposes, loan terms, FICO scores, and monthly periods.
+The Loan & Risk Analysis Dashboard explores lending data to identify patterns in loan defaults and assess portfolio risk. It provides an interactive view of loan performance across different loan grades, loan purposes, repayment terms, borrower FICO scores, and monthly periods.
 
-## Key Performance Indicators
+This project demonstrates practical skills in business intelligence, data analysis, and interactive dashboard development.
 
-- Total Loans
-- Total Loan Amount
-- Default Rate
-- Average Interest Rate
+## 🎯 Project Objectives
 
-## Dashboard Features
+* Analyze loan portfolio performance and lending trends.
+* Monitor loan defaults and default rates.
+* Explore relationships between borrower credit scores and loan defaults.
+* Compare risk patterns across loan grades, purposes, and loan terms.
+* Present key metrics through an interactive dashboard.
 
-- Default rate analysis by loan grade and purpose
-- Comparison of default rates across loan terms
-- Monthly default-rate trend analysis
-- Default-rate analysis by FICO score
-- Interactive slicers for year, grade, term, and purpose
+## 📊 Key Performance Indicators (KPIs)
 
-## Tools & Technologies
+* **Total Loans** — Total number of loans in the dataset.
+* **Total Loan Amount** — Combined value of loans.
+* **Default Rate** — Proportion of loans classified as defaults.
+* **Average Interest Rate** — Average interest rate across the analyzed loans.
 
-- Microsoft Power BI
-- DAX
-- Data Modeling
-- Data Visualization
+## 🔍 Dashboard Features
 
-## Project File
+* Default-rate analysis by loan grade and loan purpose.
+* Comparison of default rates across loan terms.
+* Monthly trends in loan default rates.
+* Default-rate analysis across borrower FICO scores.
+* Interactive slicers for year, grade, term, and purpose.
+* KPI cards for a quick overview of portfolio performance.
 
-Open `### Project File
+## 🛠️ Tools & Technologies
 
-[📊 Download Power BI Dashboard](./Loan%20%26%20Risk%20Analysis%20dashboard.pbix)
+* **Microsoft Power BI Desktop** — Dashboard development and reporting.
+* **DAX** — Measures and analytical calculations.
+* **Data Modeling** — Organizing data and relationships.
+* **Data Visualization** — Interactive charts, KPI cards, and slicers.
 
-Open the downloaded file in Microsoft Power BI Desktop.in Microsoft Power BI Desktop to explore the report.
+## 📁 Project File
 
-## Purpose
+[📊 Download the Power BI Dashboard (.pbix)](./Loan%20%26%20Risk%20Analysis%20dashboard.pbix)
 
-Created as a data analytics portfolio project to demonstrate dashboard design, DAX measures, and interactive business reporting.
+Download the file and open it using Microsoft Power BI Desktop to explore the interactive report.
 
-## Disclaimer
+## 💡 Key Insights
 
-For educational and portfolio demonstration purposes only. Findings depend on the underlying dataset.
+The dashboard can be used to explore:
+
+* How default rates vary across loan grades and purposes.
+* Whether loan terms show different default patterns.
+* How borrower FICO scores relate to observed loan defaults.
+* How default rates change over time.
+
+*Actual findings should be documented after reviewing the dashboard results and underlying dataset.*
+
+## 🚀 How to Use
+
+1. Open the PBIX download link above.
+2. Download the Power BI dashboard file.
+3. Install and launch Microsoft Power BI Desktop.
+4. Open the downloaded `.pbix` file.
+5. Explore the report using the available visuals and slicers.
+
+## 🎓 Project Purpose
+
+This project was developed as a data analytics portfolio project to demonstrate skills in Power BI dashboard design, DAX, data modeling, and interactive business reporting.
+
+## ⚠️ Disclaimer
+
+This project is intended for educational and portfolio demonstration purposes only. The analysis depends on the underlying dataset and its definitions. The dashboard should not be used as the sole basis for real-world lending or credit decisions.
